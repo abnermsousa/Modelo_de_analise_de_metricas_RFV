@@ -1,4 +1,4 @@
-# modelo_analise_metricas_RFV
+# modelo_analise_metricas_RFV_desafio7
 Utilize um modelo de Clustering para criar um sistema
 de agrupamento de perfis de clientes para um e-commerce. Deverá
 analisar o modelo mais eficiente, capaz de tornar as análises mais
